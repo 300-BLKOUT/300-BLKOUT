@@ -2,5 +2,5 @@
 - 👀 I’m interested in opsec and network security
 - 🌱 I’m currently learning bash scripting and k8s/docker
 - 💞️ I’m looking to collaborate on a super lightweight ubuntu desktop && graphical processor
-- 📫 How to reach me with carrier pidgeon (if you can...)
+- 📫 You can reach me with carrier pidgeon
 - ⚡ Fun fact: Canada is REEEAALLY cold...
